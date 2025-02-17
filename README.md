@@ -152,7 +152,7 @@ A dedicated Front-End Developer with nearly 5 years of professional experience i
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="http://www.medium.com/@sovannaro066/" target="_blank" rel="noreferrer">
+  <a href="http://www.medium.com/sovannaro066/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
