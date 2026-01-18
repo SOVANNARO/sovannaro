@@ -26,7 +26,6 @@ A dedicated **Full-Stack Developer** with nearly **5 years** of professional exp
 
 **Back-End**
 - Java, Spring Boot (REST API, Spring Security, JWT)
-- PHP, Laravel
 - Node.js (basic)
 
 **Database & Tools**
